@@ -1,3 +1,7 @@
 Pandas
 numpy 
 Seaborn
+matplotlib
+scikit-learn
+catboost
+# -e
